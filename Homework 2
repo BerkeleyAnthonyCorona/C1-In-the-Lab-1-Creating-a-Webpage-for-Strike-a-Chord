@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Strike a Chord</title>
+<meta charset="utf-8">
+</head>    
+<body> 
+<p>Strike a Chord is a music lesson company that provides music lessons for Piano, Guitar, and Violin.</p>
+<hr>
+<p>Mission: To provide world class instruction with each music lesson.</p>
+<p>Target Audience: People ages 3 to 65</p>
+<p>Linear Website Structure, pages to include: Home,Lessons, Instructors, Rentals, Contact</p>
+<p>Graphics: Images that showcase lesson opportunities</p>
+<P>Colors: Blue, Black, White</P>
+<p>Accessibility: Use text alternatives where necessary</p>
+</body>
+</html>
